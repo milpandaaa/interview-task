@@ -1,0 +1,18 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Bin",
+    "status": "gold",
+    "numberOfPurchases": "501",
+    "numberOfReturns": "11",
+    "phoneNumber": "+4-203-332-27-77"
+  },
+  {
+    "firstName": "Galina",
+    "lastName": "Petrovovna",
+    "status": "gold",
+    "numberOfPurchases": "50",
+    "numberOfReturns": "0",
+    "phoneNumber": "+7-111-222-33-44"
+  }
+]
